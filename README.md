@@ -1,4 +1,3 @@
-Creating a clear and informative README for your Flutter project on GitHub is essential to help other developers understand your project and its future goals. Here's a suggested structure for your project's README:
 
 ## Moody Shop App
 
