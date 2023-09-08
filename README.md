@@ -57,19 +57,3 @@ Provide instructions on how to set up and run the project locally. Include prere
    ```shell
    flutter run
    ```
-
-### Contributing
-
-Provide guidelines for contributing to the project, including how to submit bug reports, feature requests, and pull requests. Encourage collaboration and contributions from the community.
-
-### License
-
-Specify the project's license (e.g., MIT, Apache 2.0) and provide a link to the full license file in your repository.
-
-### Acknowledgments
-
-Acknowledge any third-party libraries, tools, or resources you've used in your project.
-
----
-
-By following this structure, you can create a comprehensive README that informs users and potential contributors about your project's current status, future goals, and how to get started with it. It also encourages collaboration and helps maintain a well-documented and organized project on GitHub.
