@@ -7,7 +7,7 @@ The Moody Shop App is a Flutter-based mobile application designed for online sho
 
 ### Features
 
-List any existing features or components that have been implemented in the UI. For example:
+List any existing features or components that have been implemented in the UI :
 
 - User registration and login screens.
 - Product catalog with categories and search functionality.
@@ -16,13 +16,11 @@ List any existing features or components that have been implemented in the UI. F
 
 ### Future Enhancements
 
-Detail the planned enhancements and features you intend to add to the project. Mention that the app will connect to a backend for additional functionality. Provide a high-level overview of the upcoming features, such as:
-
 - User authentication and authorization.
 - Integration with a backend API for fetching product data, managing user profiles, and processing orders.
 - Implementing push notifications for order updates.
 - Enhanced user experience with animations and user-friendly interactions.
-- Additional screens and functionalities (e.g., user profile, order history, product reviews).
+- Additional screens and functionalities.
 
 ### Screenshots
 
