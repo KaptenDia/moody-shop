@@ -41,14 +41,13 @@ Detail the planned enhancements and features you intend to add to the project. M
 
 ### Getting Started
 
-Provide instructions on how to set up and run the project locally. Include prerequisites, installation steps, and any configuration requirements. For example:
 
 1. **Prerequisites**: Make sure you have Flutter and Dart installed on your system. Refer to the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for details.
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/moody-shop-app.git
+   git clone https://github.com/KaptenDia/moody-shop-app.git
    ```
 
 3. **Navigate to the Project**: Change your working directory to the project folder:
